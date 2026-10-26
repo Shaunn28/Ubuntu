@@ -1,0 +1,4 @@
+FROM eclipse-temurin:8-jdk
+ADD Main.java /Main.java
+RUN javac Main.java
+ENTRYPOINT [ "java", "Main" ]
