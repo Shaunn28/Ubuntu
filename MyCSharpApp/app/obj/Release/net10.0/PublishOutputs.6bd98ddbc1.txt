@@ -1,0 +1,5 @@
+/workspaces/Ubuntu/MyCSharpApp/app/out/app
+/workspaces/Ubuntu/MyCSharpApp/app/out/app.dll
+/workspaces/Ubuntu/MyCSharpApp/app/out/app.deps.json
+/workspaces/Ubuntu/MyCSharpApp/app/out/app.runtimeconfig.json
+/workspaces/Ubuntu/MyCSharpApp/app/out/app.pdb

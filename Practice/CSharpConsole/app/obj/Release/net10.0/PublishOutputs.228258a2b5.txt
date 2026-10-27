@@ -1,0 +1,5 @@
+/workspaces/Ubuntu/Practice/CSharpConsole/app/out/app
+/workspaces/Ubuntu/Practice/CSharpConsole/app/out/app.dll
+/workspaces/Ubuntu/Practice/CSharpConsole/app/out/app.deps.json
+/workspaces/Ubuntu/Practice/CSharpConsole/app/out/app.runtimeconfig.json
+/workspaces/Ubuntu/Practice/CSharpConsole/app/out/app.pdb
