@@ -1,0 +1,15 @@
+# Use Python 3.9 as the base image
+
+FROM python:3.9
+
+# Set the working directory in the container
+
+WORKDIR /app
+
+# Copy all files from the current directory to /app in the container
+
+COPY . .
+
+#Set the default command to execute the Python script
+
+CMD ["python", "Age.py"]
