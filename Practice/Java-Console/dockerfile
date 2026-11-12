@@ -1,7 +1,0 @@
-FROM eclipse-temurin:8
-
-ADD Main.java /Main.java
-
-RUN javac Main.java
-
-ENTRYPOINT [ "java", "Main" ]
